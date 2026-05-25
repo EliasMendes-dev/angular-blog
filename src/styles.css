@@ -10,15 +10,6 @@
   --espacamento-lateral: 25px;
 }
 
-/*Light Mode */
-body.light-mode {
-  --cor-primaria: #f0f0f0;
-  --cor-secundaria: #cccccc;
-  --cor-primaria-logo: #25a3f2;
-  --cor-texto: #000000;
-  --cor-texto-secundario: #999999;
-}
-
 /*Reset global styles*/
 * {
   margin: 0;
