@@ -1,10 +1,7 @@
-Cor Primaria
-#111111
-
-Cor Secundaria
-#4d4d4d
-
-Cor da Logo
-#f35f48
-#f32d88
+Cores:
+cor-primaria: #111111;
+cor-secundaria: #4d4d4d;
+cor-primaria-logo: #0C7DC3;
+cor-texto: #ffffff;
+cor-texto-secundario: gray;
 
